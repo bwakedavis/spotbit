@@ -44,7 +44,7 @@ multidict==6.0.2
 nodeenv==1.6.0
 packaging==21.3
 pip==22.0.3
-platformdirs==2.5.1
+platformdirs==2.6.2
 pluggy==1.0.0
 ply==3.11
 protobuf==3.20.0
